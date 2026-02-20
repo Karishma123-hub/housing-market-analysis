@@ -60,13 +60,13 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 ## 👥 Team Members
 
-- **Shaik Karishma**  
+- **Bhuvana Surya Priya Pinninti**  
   *Project Planning · Data Collection*
 
 - **K Arthi Sree**  
   *Project Design · Data Preparation · Visualization for Scenario 2 & 3*
 
-- **Bhuvana Surya Priya Pinninti**  
+- **Shaik Karishma**  
   *Requirement Analysis · Visualization for Scenario 4 · Story Development · Performance Testing*
 
 - **Deepak Varma K**  
